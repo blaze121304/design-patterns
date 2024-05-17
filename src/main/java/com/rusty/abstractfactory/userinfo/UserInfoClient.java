@@ -1,12 +1,12 @@
-package com.rusty.apstractfactory.userinfo;
+package com.rusty.abstractfactory.userinfo;
 
-import com.rusty.apstractfactory.domain.product.Product;
-import com.rusty.apstractfactory.domain.product.dao.ProductDao;
-import com.rusty.apstractfactory.domain.userinfo.UserInfo;
-import com.rusty.apstractfactory.domain.userinfo.dao.UserInfoDao;
-import com.rusty.apstractfactory.factory.DaoFactory;
-import com.rusty.apstractfactory.factory.MySqlDaoFactory;
-import com.rusty.apstractfactory.factory.OracleDaoFactory;
+import com.rusty.abstractfactory.domain.product.Product;
+import com.rusty.abstractfactory.domain.product.dao.ProductDao;
+import com.rusty.abstractfactory.domain.userinfo.UserInfo;
+import com.rusty.abstractfactory.domain.userinfo.dao.UserInfoDao;
+import com.rusty.abstractfactory.factory.DaoFactory;
+import com.rusty.abstractfactory.factory.MySqlDaoFactory;
+import com.rusty.abstractfactory.factory.OracleDaoFactory;
 
 import java.io.FileInputStream;
 import java.io.IOException;

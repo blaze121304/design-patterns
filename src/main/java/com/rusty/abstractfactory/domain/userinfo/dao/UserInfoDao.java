@@ -1,6 +1,6 @@
-package com.rusty.apstractfactory.domain.userinfo.dao;
+package com.rusty.abstractfactory.domain.userinfo.dao;
 
-import com.rusty.apstractfactory.domain.userinfo.UserInfo;
+import com.rusty.abstractfactory.domain.userinfo.UserInfo;
 
 public interface UserInfoDao {
 

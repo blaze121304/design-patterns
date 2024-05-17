@@ -1,4 +1,4 @@
-package com.rusty.apstractfactory.domain.userinfo;
+package com.rusty.abstractfactory.domain.userinfo;
 
 public class UserInfo {
 

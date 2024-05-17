@@ -1,4 +1,4 @@
-package com.rusty.apstractfactory.factory;
+package com.rusty.abstractfactory.factory;
 
 public class MySqlDaoFactory extends DaoFactory {
 

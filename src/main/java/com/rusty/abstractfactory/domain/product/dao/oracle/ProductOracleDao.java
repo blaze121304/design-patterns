@@ -1,7 +1,7 @@
-package com.rusty.apstractfactory.domain.product.dao.oracle;
+package com.rusty.abstractfactory.domain.product.dao.oracle;
 
-import com.rusty.apstractfactory.domain.product.Product;
-import com.rusty.apstractfactory.domain.product.dao.ProductDao;
+import com.rusty.abstractfactory.domain.product.Product;
+import com.rusty.abstractfactory.domain.product.dao.ProductDao;
 
 public class ProductOracleDao implements ProductDao {
 

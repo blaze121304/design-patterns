@@ -1,6 +1,6 @@
-package com.rusty.apstractfactory.domain.product.dao;
+package com.rusty.abstractfactory.domain.product.dao;
 
-import com.rusty.apstractfactory.domain.product.Product;
+import com.rusty.abstractfactory.domain.product.Product;
 
 public interface ProductDao {
 

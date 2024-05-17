@@ -1,7 +1,7 @@
-package com.rusty.apstractfactory.domain.product.dao.mysql;
+package com.rusty.abstractfactory.domain.product.dao.mysql;
 
-import com.rusty.apstractfactory.domain.product.Product;
-import com.rusty.apstractfactory.domain.product.dao.ProductDao;
+import com.rusty.abstractfactory.domain.product.Product;
+import com.rusty.abstractfactory.domain.product.dao.ProductDao;
 
 public class ProductMySqlDao implements ProductDao {
 

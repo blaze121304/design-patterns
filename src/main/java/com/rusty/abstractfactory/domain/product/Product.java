@@ -1,4 +1,4 @@
-package com.rusty.apstractfactory.domain.product;
+package com.rusty.abstractfactory.domain.product;
 
 public class Product {
 

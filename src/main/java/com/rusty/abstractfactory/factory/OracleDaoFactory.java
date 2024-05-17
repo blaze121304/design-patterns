@@ -1,4 +1,6 @@
-package com.rusty.apstractfactory.factory;
+package com.rusty.abstractfactory.factory;
+
+import com.rusty.abstractfactory.domain.product.dao.oracle.ProductOracleDao;
 
 public class OracleDaoFactory extends DaoFactory{
 
